@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/garrettfgibbs/Test/_apis/build/status%2FGarrettGibbs.js-e2e-express-server?branchName=main)](https://dev.azure.com/garrettfgibbs/Test/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
